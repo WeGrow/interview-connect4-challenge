@@ -1,0 +1,24 @@
+{
+  "name": "interview-connect4-challenge",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WeGrow/interview-connect4-challenge.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/WeGrow/interview-connect4-challenge/issues"
+  },
+  "homepage": "https://github.com/WeGrow/interview-connect4-challenge#readme",
+  "dependencies": {
+    "bluebird": "^3.5.0",
+    "request": "^2.81.0",
+    "ws": "^1.1.0"
+  }
+}
